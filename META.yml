@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                PHP-Serialization-XS
+version:             0.01
+abstract:            simple flexible means of converting the output
+license:             ~
+author:              
+    - Darren Kulp <kulp@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    PHP::Serialization:            0.33
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
