@@ -7,4 +7,6 @@ XS.xs
 t/PHP-Serialization-XS.t
 lib/PHP/Serialization/XS.pm
 typemap
+convert.c
+convert.h
 META.yml                                 Module meta-data (added by MakeMaker)
